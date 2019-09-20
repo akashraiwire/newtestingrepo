@@ -1,6 +1,8 @@
 <?php
 
-echo phpinfo();	
+echo phpinfo();
+
+	
 
 echo "AKASH";
 echo "NEW branch";
